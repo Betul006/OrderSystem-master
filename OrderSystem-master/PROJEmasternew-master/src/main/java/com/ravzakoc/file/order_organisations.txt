@@ -1,0 +1,8 @@
+Dogum Gunu | Renk: mavi | Kisi Sayisi: 3 | Garson: Yok | DJ: Var
+Dogum Gunu | Renk: mavi | Kisi Sayisi: 3 | Garson: Yok | DJ: Var
+Dogum Gunu | Renk: mavi | Kisi Sayisi: 2 | Garson: Yok | DJ: Yok
+Dogum Gunu | Renk: beyaz | Kisi Sayisi: 2 | Garson: Var (2) | DJ: Varnull
+Dogum Gunu | Renk: kırmızı | Kisi Sayisi: 23 | Garson: Var (34) | DJ: Var | null
+Dogum Gunu | Renk: kırmızı | Kisi Sayisi: 2 | Garson: Var (4) | DJ: Var | 
+Dogum Gunu | Renk: kırmızı | Kisi Sayisi: 45 | Garson: Var (45) | DJ: Var | ravza
+Dogum Gunu | Renk: mavi | Kisi Sayisi: 4 | Garson: Var (4) | DJ: Yok | 
