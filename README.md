@@ -37,7 +37,7 @@ Sipariş kabul edilirse:
 🧩 Object-Oriented Programming (OOP)
 🧠 OOP Yapısı
 
-## *Proje yaklaşık 30 sınıftan oluşmaktadır ve aşağıdaki OOP prensiplerini içermektedir:*
+## *Proje yaklaşık 35 sınıftan oluşmaktadır ve aşağıdaki OOP prensiplerini içermektedir:*
 
 Encapsulation (Kapsülleme)
 Inheritance (Kalıtım)
@@ -49,9 +49,35 @@ Abstraction (Soyutlama)
  ├──src/main/java 
  
      ├──com/ravzakoc
+     
          -depot
+           -OrderDepot.java
+           -OrganisationList.java
+           
          -file
+           -OrderCustomerFileManager.java
+           -OrderProviderFileManager.java
+           -OrganisationCompanyFileManager.java
+           -order
+           -order_food.txt
+           -order_foodAndOrganisation
+           -order_organisations.txt
+           -organisation_company.txt
+           -take_order.txt
+           
          -projectoop
+           -LoginScreen.java
+           -OrderLogin.java
+           -OrderMemory.java
+           -OrderRegistration.java
+           -OrganisationCompany.java
+           -OrganisationCompanyMemory.java
+           -OrganisationCompanyRegister.java
+           -RegisterScreen.java
+           -Session.java
+           -TakeOrderMemory.java
+           -TakeOrderRegister.java
+           
          -Main.java
   
      ├──foodtypes
