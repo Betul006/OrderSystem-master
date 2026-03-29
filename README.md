@@ -62,5 +62,7 @@ Abstraction (Soyutlama)
 Projeyi bilgisayarına klonla:
 git clone <repo-link>
 IDE ile aç (IntelliJ IDEA / Eclipse önerilir)
+
+
 Ana sınıfı çalıştır:
 Main.java
