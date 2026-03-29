@@ -46,7 +46,7 @@ Abstraction (Soyutlama)
 
 ## *📁 Proje Yapısı (Örnek)*
 
- ├──src/main/java
+ ├──src/main/java \n
   ├──com/ravzakoc
   ├──foodtypes
   ├──order_and_takeorder
