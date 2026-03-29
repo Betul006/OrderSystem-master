@@ -44,11 +44,15 @@ Inheritance (Kalıtım)
 Polymorphism (Çok Biçimlilik)
 Abstraction (Soyutlama)
 
-## *📁 Proje Yapısı (Örnek)*
+## *📁 Proje Yapısı *
 
  ├──src/main/java 
  
      ├──com/ravzakoc
+         -depot
+         -file
+         -projectoop
+         -Main.java
   
      ├──foodtypes
   
