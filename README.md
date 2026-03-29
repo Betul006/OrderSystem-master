@@ -55,12 +55,25 @@ Abstraction (Soyutlama)
          -Main.java
   
      ├──foodtypes
+         -NormalFood.java
+         -VeganFood.java
+         -VegetarianFood.java
   
      ├──order_and_takeorder
+         -Order.java
+         -TakeOrder.java
   
      ├──orderingtypes
+         -OrderOrganisation.java
+         -OrderingFood.java
+         -OrderingMealAndOrganisatio
     
      ├──organisations
+         -Birthday.java
+         -ConceptParty.java
+         -Graduation.java
+         -Kina.java
+         -Wedding.java
  
 ## *Nasıl Çalıştırılır?*
 Projeyi bilgisayarına klonla:
