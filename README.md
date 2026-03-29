@@ -48,15 +48,15 @@ Abstraction (Soyutlama)
 
  ├──src/main/java 
  
-   ├──com/ravzakoc
+     ├──com/ravzakoc
   
-   ├──foodtypes
+     ├──foodtypes
   
-   ├──order_and_takeorder
+     ├──order_and_takeorder
   
-   ├──orderingtypes
-  
-   ├──organisations
+     ├──orderingtypes
+    
+     ├──organisations
  
 ## *Nasıl Çalıştırılır?*
 Projeyi bilgisayarına klonla:
