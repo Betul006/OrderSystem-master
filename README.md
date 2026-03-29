@@ -32,10 +32,10 @@ Sipariş kabul edilirse:
 İlgili sipariş txt dosyasından silinir
 
 ## *Kullanılan Teknolojiler*
-☕ Java
-📂 File I/O (TXT dosya işlemleri)
-🧩 Object-Oriented Programming (OOP)
-🧠 OOP Yapısı
+ Java , 
+ File I/O (TXT dosya işlemleri) , 
+ Object-Oriented Programming (OOP) , 
+ OOP Yapısı
 
 ## *Proje yaklaşık 35 sınıftan oluşmaktadır ve aşağıdaki OOP prensiplerini içermektedir:*
 
